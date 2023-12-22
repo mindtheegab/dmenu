@@ -1,4 +1,4 @@
-# Luke's dmenu
+# Gab's dmenu(forked from Lukes)
 
 Extra stuff added to vanilla dmenu:
 
